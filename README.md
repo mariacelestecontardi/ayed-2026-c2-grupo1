@@ -6,11 +6,11 @@ Repositorio del grupo. Partir de este esqueleto. No borrar la estructura de `src
 
 | Nombre | Mail | GitHub |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  |
+| Maria Celeste Contardi | mariacelestecontardid@gmail.com | mariacelestecontardi |
+| Alessandro Javier Pinto | Alessandro0152@gmail.com | AlessandroJP2 |
+|Lucia Zarate Sosa | sosalucia15@gmail.com | sosalucia |
 
-**Tema elegido:** Pokédex / Recetario / Biblioteca musical (dejar uno)
+**Tema elegido:** Biblioteca musical
 
 ## Cómo ejecutar
 
