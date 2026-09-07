@@ -4,12 +4,15 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 ## 1. Grupo y tema
 
-- Tema:
+- Tema: Biblioteca Musical 
 - Por qué lo eligieron (5–8 líneas):
+
 
 ## 2. Modelo
 
 Qué es un ítem del catálogo. Qué es mutable y qué no (E1). Cómo se relacionan catálogo, colección principal, pila y cola.
+
+Todo lo que contiene cada canción, sus atributos: título, artista, album, fecha de lanzamiento y duración, son datos inmutables, no deberían modificarse a lo largo del tiempo. Nosotros para representarlas elegimos un Diccionario, por una cuestión de mejor legibilidad y claridad. El catálogo (y futuras playlists), serán mutables, ya que se podrán agregar, eliminar y reordenar las canciones contenidas. Por lo tanto, serán representados mediante listas. 
 
 ```text
 (pueden pegar un diagrama ASCII o una lista de clases)
