@@ -6,7 +6,7 @@ Completar y hacer crecer en cada entrega. No hace falta prosa larga: oraciones c
 
 - Tema: Biblioteca Musical 
 - Por qué lo eligieron (5–8 líneas):
-
+Elegimos el tema Biblioteca musical porque nos resultó interesante poder trabajar con información relacionada a canciones, artistas y géneros, aplicando los conceptos vistos durante la materia. Consideramos que este tema nos permitirá enfocarnos especialmente en el manejo y organización de datos mediante diferentes métodos, funciones y operaciones, permitiéndonos comprender cómo estos pueden integrarse en un programa funcional a través de un menú interactivo. También nos resultó interesante poder trabajar con GitHub como herramienta para organizar, compartir y realizar un seguimiento de los avances del equipo. De esta manera, buscamos no sólo aplicar los contenidos de la materia, sino también adquirir una mayor experiencia en el desarrollo conjunto de un proyecto. 
 
 ## 2. Modelo
 
