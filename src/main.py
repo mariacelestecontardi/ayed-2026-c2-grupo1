@@ -7,6 +7,8 @@ TEMAS = {
     "musica": "Biblioteca musical",
 }
 
+def pendiente():
+    print("Todavía no está implementado. Completar en la entrega que corresponde.")
 
 def listar_catalogo():
     print("\n --- Catalogo de Canciones ---")
